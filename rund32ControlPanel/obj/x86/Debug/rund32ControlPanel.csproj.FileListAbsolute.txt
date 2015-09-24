@@ -1,0 +1,7 @@
+C:\Users\Alex\Desktop\rund32ControlPanel\rund32ControlPanel\bin\Debug\rund32ControlPanel.exe
+C:\Users\Alex\Desktop\rund32ControlPanel\rund32ControlPanel\bin\Debug\rund32ControlPanel.pdb
+C:\Users\Alex\Desktop\rund32ControlPanel\rund32ControlPanel\obj\x86\Debug\rund32ControlPanel.Form1.resources
+C:\Users\Alex\Desktop\rund32ControlPanel\rund32ControlPanel\obj\x86\Debug\rund32ControlPanel.Properties.Resources.resources
+C:\Users\Alex\Desktop\rund32ControlPanel\rund32ControlPanel\obj\x86\Debug\rund32ControlPanel.csproj.GenerateResource.Cache
+C:\Users\Alex\Desktop\rund32ControlPanel\rund32ControlPanel\obj\x86\Debug\rund32ControlPanel.exe
+C:\Users\Alex\Desktop\rund32ControlPanel\rund32ControlPanel\obj\x86\Debug\rund32ControlPanel.pdb

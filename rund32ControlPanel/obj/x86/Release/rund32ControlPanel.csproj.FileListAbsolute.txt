@@ -1,0 +1,16 @@
+C:\Users\Alex\Desktop\rund32ControlPanel\rund32ControlPanel\bin\Release\rund32ControlPanel.exe
+C:\Users\Alex\Desktop\rund32ControlPanel\rund32ControlPanel\bin\Release\rund32ControlPanel.pdb
+C:\Users\Alex\Desktop\rund32ControlPanel\rund32ControlPanel\obj\x86\Release\rund32ControlPanel.Form1.resources
+C:\Users\Alex\Desktop\rund32ControlPanel\rund32ControlPanel\obj\x86\Release\rund32ControlPanel.Properties.Resources.resources
+C:\Users\Alex\Desktop\rund32ControlPanel\rund32ControlPanel\obj\x86\Release\rund32ControlPanel.csproj.GenerateResource.Cache
+C:\Users\Alex\Desktop\rund32ControlPanel\rund32ControlPanel\obj\x86\Release\rund32ControlPanel.exe
+C:\Users\Alex\Desktop\rund32ControlPanel\rund32ControlPanel\obj\x86\Release\rund32ControlPanel.pdb
+C:\Users\Alex\Desktop\rund32ControlPanel\rund32ControlPanel\obj\x86\Release\rund32ControlPanel.csprojResolveAssemblyReference.cache
+D:\Программы C#\rund32ControlPanel\rund32ControlPanel\obj\x86\Release\rund32ControlPanel.exe
+D:\Программы C#\rund32ControlPanel\rund32ControlPanel\obj\x86\Release\rund32ControlPanel.pdb
+D:\Программы C#\rund32ControlPanel\rund32ControlPanel\bin\Release\rund32ControlPanel.exe
+D:\Программы C#\rund32ControlPanel\rund32ControlPanel\bin\Release\rund32ControlPanel.pdb
+D:\Программы C#\rund32ControlPanel\rund32ControlPanel\obj\x86\Release\rund32ControlPanel.csprojResolveAssemblyReference.cache
+D:\Программы C#\rund32ControlPanel\rund32ControlPanel\obj\x86\Release\rund32ControlPanel.Form1.resources
+D:\Программы C#\rund32ControlPanel\rund32ControlPanel\obj\x86\Release\rund32ControlPanel.Properties.Resources.resources
+D:\Программы C#\rund32ControlPanel\rund32ControlPanel\obj\x86\Release\rund32ControlPanel.csproj.GenerateResource.Cache
